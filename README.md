@@ -9,7 +9,7 @@
 
 **Objetivo:** Usar o NotebookLM para construir um "segundo cérebro" técnico — um sistema de estudo estruturado cobrindo programação, Linux, segurança da informação, IA e engenharia de prompts.
 
-**Ferramentas:** NotebookLM (Google), Python 3, Ubuntu/Kali Linux, OWASP, materiais do Curso em Vídeo, livros open source da UFPR e documentação oficial.
+**Ferramentas:** NotebookLM (Google), ClaudeAI (para apoio na documentação), VSCode
 
 **O que foi entregue:**
 - Notebook com +20 fontes curadas e organizadas por área
