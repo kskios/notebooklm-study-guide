@@ -71,8 +71,6 @@ Funcionalidades que usei neste projeto:
 
 > Acesse o notebook: [NotebookLM — Segundo Cérebro para Devs](https://notebooklm.google.com/notebook/6d87dcfa-b06d-4db4-adf1-f5642b27bf8b/preview)
 
-![Interface do NotebookLM com as fontes organizadas por área](images/notebooklm-overview.png)
-
 ---
 
 ## Objetivos de Aprendizagem
